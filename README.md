@@ -1,1 +1,1 @@
-# INFUSSION-PAINT.githun.io
+# INFUSSION-PAINT.github.io
